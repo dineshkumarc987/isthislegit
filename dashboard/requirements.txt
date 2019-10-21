@@ -38,5 +38,5 @@ toml==0.9.2
 uritemplate==3.0.0
 urllib3==1.21.1
 WebOb==1.7.3
-Werkzeug==0.12.2
+Werkzeug==0.15.3
 WTForms==2.1
